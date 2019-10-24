@@ -2,7 +2,7 @@
 
 Data Mode is a platform, created in 2019 by [Ms. Latoya Clarke](https://www.linkedin.com/in/latoya-clarke-506010175/) in collaboration with the IEEE Jamaica Section in Jamaica.
 
-This Meet-Up aims to provide a platform for Data Professional, Data enthusiasts, researchers and students interested in data science, machine learning, Data Vizualization and Big Data and help them understand how to solve some  of the problems around the world and gain meaningful insights from it. This club intends to increase exposure to data-oriented careers through special projects, speaker series, hackathons as well as other networking events.
+This Meet-Up aims to provide a platform for Data Professional, Data enthusiasts, researchers and students interested in data science, machine learning, Data Vizualization and Big Data and help them understand how to solve some  of the problems around the world and gain meaningful insights from it. We intend to increase exposure to data-oriented careers through special projects, speaker series, hackathons as well as other networking events.
 
 Registration: 
 https://docs.google.com/forms/d/e/1FAIpQLScu618YX__rcM9XUzbNueR9jKO9HFrubglFgx1HboD1bBzOqA/viewform?usp=sf_link
@@ -27,7 +27,7 @@ Organizers: [Latoya Clarke](https://www.linkedin.com/in/latoya-clarke-506010175/
 | 21 November 2019 |---------------| ---------|
 | 19 December 2019 |---------------| ---------|
 
-# Past Lecturers, Presentations and Tutorials:
+# Past Lectures, Presentations and Tutorials:
 ## Presentations in 2019 
 ### 1. Introduction to Data Science - October, 2019 
 1. [The State of the Industrial Revolution]() by Shamar Morgan.
