@@ -1,6 +1,6 @@
 # Jamaica Data-Science-Meet-Up
 
-Data Mode is a platform, created in 2019 by [Ms. Latoya Clarke](https://www.linkedin.com/in/latoya-clarke-506010175/) in collaboration with the IEEE Jamaica Section in Jamaica.
+Data Mode is a data science platform created in 2019 by the IEEE Jamaica Section. 
 
 This Meet-Up aims to provide a platform for Data Professional, Data enthusiasts, researchers and students interested in data science, machine learning, Data Vizualization and Big Data and help them understand how to solve some  of the problems around the world and gain meaningful insights from it. We intend to increase exposure to data-oriented careers through special projects, speaker series, hackathons as well as other networking events.
 
