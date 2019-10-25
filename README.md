@@ -24,12 +24,11 @@ Organizers: [Latoya Clarke](https://www.linkedin.com/in/latoya-clarke-506010175/
 | Date          | Theme           | Speakers  |
 | ------------- |---------------| ---------|
 | 24 October 2019    | Introduction to Data Science | [Shamar Morgan](https://www.linkedin.com/in/shamar-morgan-b-eng-a9b23857/), [Gilroy Gordon](https://www.linkedin.com/in/gilroygordon/), [Tiffany Fisher](https://www.linkedin.com/in/tiffany-fisher-rhoden-442b9aaa/) |
-| 21 November 2019 |---------------| ---------|
-| 19 December 2019 |---------------| ---------|
+
 
 # Past Lectures, Presentations and Tutorials:
 ## Presentations in 2019 
 ### 1. Introduction to Data Science - October, 2019 
-1. [The State of the Industrial Revolution]() by Shamar Morgan.
-2. [The Data Science Process]() by Gilroy Gordon.
+1. [The State of the Industrial Revolution](https://drive.google.com/open?id=1bSHiD-Ntvk6lS09Pg6cLBDCFR99uZLpB) by Shamar Morgan.
+2. [The Data Science Process](https://drive.google.com/open?id=1o09qlouQnk46rXabQ3XZIo_UGWqhh5zg) by Gilroy Gordon.
 3. [Data Preparation]() by Tiffany Fisher.
