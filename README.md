@@ -31,4 +31,4 @@ Organizers: [Latoya Clarke](https://www.linkedin.com/in/latoya-clarke-506010175/
 ### 1. Introduction to Data Science - October, 2019 
 1. [The State of the Industrial Revolution](https://drive.google.com/open?id=1bSHiD-Ntvk6lS09Pg6cLBDCFR99uZLpB) by Shamar Morgan.
 2. [The Data Science Process](https://drive.google.com/open?id=1o09qlouQnk46rXabQ3XZIo_UGWqhh5zg) by Gilroy Gordon.
-3. [Data Preparation]() by Tiffany Fisher.
+3. [Data Preparation](https://github.com/datamodeja/Data-Science-Meet-Up/blob/master/Introduction%20to%20Data%20Science%20October%202019/Data%20Preparation.ipynb) by Tiffany Fisher.
