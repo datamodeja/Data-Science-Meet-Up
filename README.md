@@ -18,8 +18,10 @@ Time: 6pm-8pm
 
 Organizers: [Latoya Clarke](https://www.linkedin.com/in/latoya-clarke-506010175/), [Shamar Morgan](https://www.linkedin.com/in/shamar-morgan-b-eng-a9b23857/), [Devon Gayle](https://www.linkedin.com/in/devon-gayle-14950a34/)  
 
-Follow our Page 
+Follow our Pages 
+
 [IEEE Jamaica Linkedin](https://www.linkedin.com/in/ieee-jamaica-section-1074a0188/)
+
 [IEEE Jamaica Twitter](https://twitter.com/IeeeJamaica)
 
 
