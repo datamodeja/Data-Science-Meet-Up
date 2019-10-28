@@ -18,6 +18,11 @@ Time: 6pm-8pm
 
 Organizers: [Latoya Clarke](https://www.linkedin.com/in/latoya-clarke-506010175/), [Shamar Morgan](https://www.linkedin.com/in/shamar-morgan-b-eng-a9b23857/), [Devon Gayle](https://www.linkedin.com/in/devon-gayle-14950a34/)  
 
+Follow our Page 
+[IEEE Jamaica Linkedin](https://www.linkedin.com/in/ieee-jamaica-section-1074a0188/)
+[IEEE Jamaica Twitter](https://twitter.com/IeeeJamaica)
+
+
 # Past Events:
 
 ### Year 2019
@@ -27,7 +32,7 @@ Organizers: [Latoya Clarke](https://www.linkedin.com/in/latoya-clarke-506010175/
 
 
 # Past Lectures, Presentations and Tutorials:
-## Presentations in 2019 
+
 ### 1. Introduction to Data Science - October, 2019 
 1. [The State of the Industrial Revolution](https://drive.google.com/open?id=1bSHiD-Ntvk6lS09Pg6cLBDCFR99uZLpB) by Shamar Morgan.
 2. [The Data Science Process](https://drive.google.com/open?id=1o09qlouQnk46rXabQ3XZIo_UGWqhh5zg) by Gilroy Gordon.
