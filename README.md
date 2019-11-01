@@ -9,11 +9,15 @@ This Meet-Up aims to provide a platform for Data Professional, Data enthusiasts,
 
 
 
-**Room:** School of Engineering Board Room
+
 
 **Date:** November 21, 2019
 
  **Time:** 6pm-8pm
+ 
+ **Venue:** School of Engineering Board Room (5th Floor),  Faculty of Engineering, University of Technology, Jamaica
+ 
+ **View Location on Map:** [View Map](https://www.google.sk/maps/place/University+of+Technology,+Jamaica/@18.0186275,-76.7434165,19.16z/data=!4m5!3m4!1s0x8edb3ed77252d65f:0xbe483695dda08fef!8m2!3d18.0170384!4d-76.7439025)
 
 **Organizers**: [Latoya Clarke](https://www.linkedin.com/in/latoya-clarke-506010175/), [Shamar Morgan](https://www.linkedin.com/in/shamar-morgan-b-eng-a9b23857/), [Devon Gayle](https://www.linkedin.com/in/devon-gayle-14950a34/)  
 
@@ -27,9 +31,9 @@ This Meet-Up aims to provide a platform for Data Professional, Data enthusiasts,
 
 
 ### Presentations: 
-[View Presentations](https://drive.google.com/open?id=1regmh0z3p4F4T7BeeLXeGxsRNkgtqDNN)
+[View Presentations on Google Drive](https://drive.google.com/open?id=1regmh0z3p4F4T7BeeLXeGxsRNkgtqDNN)
 
-Place of meetups: Faculty of Engineering building, map link below: [View Map](https://www.google.sk/maps/place/University+of+Technology,+Jamaica/@18.0186275,-76.7434165,19.16z/data=!4m5!3m4!1s0x8edb3ed77252d65f:0xbe483695dda08fef!8m2!3d18.0170384!4d-76.7439025)
+
 
 
 # Past Events:
