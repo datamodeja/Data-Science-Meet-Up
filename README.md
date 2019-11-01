@@ -21,6 +21,8 @@ This Meet-Up aims to provide a platform for Data Professional, Data enthusiasts,
 
 **Organizers**: [Latoya Clarke](https://www.linkedin.com/in/latoya-clarke-506010175/), [Shamar Morgan](https://www.linkedin.com/in/shamar-morgan-b-eng-a9b23857/), [Devon Gayle](https://www.linkedin.com/in/devon-gayle-14950a34/)  
 
+
+
 ## Social Media - **Follow our Pages** 
 
 
@@ -28,6 +30,8 @@ This Meet-Up aims to provide a platform for Data Professional, Data enthusiasts,
 [IEEE Jamaica Linkedin](https://www.linkedin.com/in/ieee-jamaica-section-1074a0188/)
 
 [IEEE Jamaica Twitter](https://twitter.com/IeeeJamaica)
+
+
 
 
 ## Presentations: 
