@@ -22,6 +22,8 @@ Place of meetups: Faculty of Engineering building, map link below: https://www.g
 
 
 
+
+
 **Follow our Pages** 
 
 [IEEE Jamaica Linkedin](https://www.linkedin.com/in/ieee-jamaica-section-1074a0188/)
