@@ -5,11 +5,11 @@ Data Mode is a data science platform created in 2019 by the IEEE Jamaica Section
 This Meet-Up aims to provide a platform for Data Professional, Data enthusiasts, researchers and students interested in data science, machine learning, Data Vizualization and Big Data and help them understand how to solve some  of the problems around the world and gain meaningful insights from it. We intend to increase exposure to data-oriented careers through special projects, speaker series, hackathons as well as other networking events.
 
 ## Registration: 
-[Register Here](https://docs.google.com/forms/d/e/1FAIpQLScu618YX__rcM9XUzbNueR9jKO9HFrubglFgx1HboD1bBzOqA/viewform?usp=sf_link)
+[Register here to secure a spot](https://docs.google.com/forms/d/e/1FAIpQLScu618YX__rcM9XUzbNueR9jKO9HFrubglFgx1HboD1bBzOqA/viewform?usp=sf_link)
 
 
 
-
+## Meetup #2
 
 **Date:** November 21, 2019
 
@@ -21,7 +21,7 @@ This Meet-Up aims to provide a platform for Data Professional, Data enthusiasts,
 
 **Organizers**: [Latoya Clarke](https://www.linkedin.com/in/latoya-clarke-506010175/), [Shamar Morgan](https://www.linkedin.com/in/shamar-morgan-b-eng-a9b23857/), [Devon Gayle](https://www.linkedin.com/in/devon-gayle-14950a34/)  
 
-
+## Social Media
 
 **Follow our Pages** 
 
