@@ -11,6 +11,8 @@ This Meet-Up aims to provide a platform for Data Professional, Data enthusiasts,
 
 ## Meetup #2
 
+**Topic:** Improving Machine Learning Model Performance
+
 **Date:** November 21, 2019
 
  **Time:** 6pm-8pm
