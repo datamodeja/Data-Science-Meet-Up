@@ -1,4 +1,4 @@
-# Jamaica Data-Science-Meet-Up
+# Jamaica Data Science-&- Machine Learning-Meet-Up
 
 Data Mode is a data science platform created in 2019 by the IEEE Jamaica Section. 
 
