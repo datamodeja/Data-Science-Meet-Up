@@ -9,11 +9,11 @@ This Meet-Up aims to provide a platform for Data Professional, Data enthusiasts,
 
 
 
-## Meetup #2
+## Meetup #3
 
-**Topic:** Improving Machine Learning Model Performance
+**Topic:** Statistics in Data Science
 
-**Date:** November 21, 2019
+**Date:** January 23, 2020
 
  **Time:** 6pm-8pm
  
