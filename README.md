@@ -47,11 +47,14 @@ This Meet-Up aims to provide a platform for Data Professional, Data enthusiasts,
 ### Year 2019
 | Date          | Theme           | Speakers  |
 | ------------- |---------------| ---------|
-| 24 October 2019    | Introduction to Data Science | [Shamar Morgan](https://www.linkedin.com/in/shamar-morgan-b-eng-a9b23857/), [Gilroy Gordon](https://www.linkedin.com/in/gilroygordon/), [Tiffany Fisher](https://www.linkedin.com/in/tiffany-fisher-rhoden-442b9aaa/) |
 | 21 November 2019    | Understanding Cross Validation | [Latoya Clarke](https://www.linkedin.com/in/latoya-clarke-506010175/) |
+| 24 October 2019    | Introduction to Data Science | [Shamar Morgan](https://www.linkedin.com/in/shamar-morgan-b-eng-a9b23857/), [Gilroy Gordon](https://www.linkedin.com/in/gilroygordon/), [Tiffany Fisher](https://www.linkedin.com/in/tiffany-fisher-rhoden-442b9aaa/) |
 
 
 # Past Lectures, Presentations and Tutorials:
+
+### 2. Improving Model Performance - November, 2019 
+1. [Understanding Cross Validation](https://drive.google.com/open?id=1sRCNQM9Lzb3tfWaqeud2K6jkpHU98LR8) by Latoya Clarke
 
 ### 1. Introduction to Data Science - October, 2019 
 1. [The State of the Industrial Revolution](https://drive.google.com/open?id=1bSHiD-Ntvk6lS09Pg6cLBDCFR99uZLpB) by Shamar Morgan.
@@ -59,6 +62,4 @@ This Meet-Up aims to provide a platform for Data Professional, Data enthusiasts,
 3. [Data Preparation](https://github.com/datamodeja/Data-Science-Meet-Up/blob/master/Introduction%20to%20Data%20Science%20October%202019/Data%20Preparation.ipynb) by Tiffany Fisher.
 
 
-### 2. Improving Model Performance - November, 2019 
-1. [Understanding Cross Validation](https://drive.google.com/open?id=1sRCNQM9Lzb3tfWaqeud2K6jkpHU98LR8) by Latoya Clarke
 
