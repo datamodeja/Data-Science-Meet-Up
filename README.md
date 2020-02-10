@@ -11,9 +11,9 @@ This Meet-Up aims to provide a platform for Data Professional, Data enthusiasts,
 
 ## Meetup #3
 
-**Topic:** Statistics in Data Science
+**Topic:** Role of Statistics in Data Science
 
-**Date:** January 23, 2020
+**Date:** February 20, 2020
 
  **Time:** 6pm-8pm
  
